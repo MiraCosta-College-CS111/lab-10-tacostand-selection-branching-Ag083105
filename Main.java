@@ -1,7 +1,7 @@
+// PARTNER NAME: Amy 
 // PARTNER NAME:
-// PARTNER NAME:
-// CS111 SECTION #:
-// DATE:
+// CS111 SECTION #: 
+// DATE: 3/13/25
 
 public class Main
 {
